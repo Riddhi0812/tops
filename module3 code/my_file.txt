@@ -1,0 +1,3 @@
+Python is easy to learn  
+Djanngo is a fram work of python  
+Django is easy to read  
